@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Accordion from './components';
 import './App.css';
 
 function App() {
